@@ -1,1 +1,3 @@
-# ether
+# About
+This is my first repository for testing and learning [Git](https://git-scm.com/)![Git logo](https://git-scm.com/images/logos/downloads/Git-Logo-2Color.svg) and [Github](https://github.com)![Github logo](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png)<br/>
+I'm a newbie :) With no experience in project development, **this repository is for testing and learning purposes only**.
