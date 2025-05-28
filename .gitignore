@@ -1,7 +1,9 @@
 #Visual Studio
 .vs
 /x64
+/Debug
 /etherE
+/build
 
 # Prerequisites
 *.d

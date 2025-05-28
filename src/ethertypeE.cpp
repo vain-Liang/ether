@@ -4,7 +4,7 @@
 */
 #define NOMINMAX
 
-#include "etherE.h"
+#include "include/etherE.h"
 #include <vector>
 #include <cstdio>
 #include <cstring>

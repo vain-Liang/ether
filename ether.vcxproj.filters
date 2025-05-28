@@ -15,24 +15,24 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="etherE.cpp">
+    <ClCompile Include="..\src\etherE.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="ethertypeE.cpp">
+    <ClCompile Include="..\src\ethertypeE.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="etherE.h">
+    <ClInclude Include="..\src\include\etherE.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="resource.h">
+    <ClInclude Include="..\src\include\resource.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="resource1.h">
+    <ClInclude Include="..\src\include\resource1.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="resource2.h">
+    <ClInclude Include="..\src\include\resource2.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
@@ -42,7 +42,7 @@
     </ResourceCompile>
   </ItemGroup>
   <ItemGroup>
-    <Image Include="..\..\1.ico">
+    <Image Include="..\icon\icon.ico">
       <Filter>资源文件</Filter>
     </Image>
   </ItemGroup>

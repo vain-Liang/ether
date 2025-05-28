@@ -13,7 +13,7 @@
 // #include <string.h>
 #include <winsock2.h> // 用于htons, WSADATA
 #include <windows.h>  // 用于GetTickCount64, WaitForSingleObject, GetStdHandle, Sleep
-#include "etherE.h"
+#include "include/etherE.h"
 // #include <conio.h>
 
 #pragma comment(lib, "ws2_32.lib") // 链接ws2_32库

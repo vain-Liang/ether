@@ -18,6 +18,19 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\include\etherE.h" />
+    <ClInclude Include="src\include\resource.h" />
+    <ClInclude Include="src\include\resource1.h" />
+    <ClInclude Include="src\include\resource2.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\etherE.cpp" />
+    <ClCompile Include="src\ethertypeE.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="icon\icon.ico" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
@@ -134,22 +147,6 @@
       <SuppressStartupBanner>false</SuppressStartupBanner>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClCompile Include="etherE.cpp" />
-    <ClCompile Include="ethertypeE.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="etherE.h" />
-    <ClInclude Include="resource.h" />
-    <ClInclude Include="resource1.h" />
-    <ClInclude Include="resource2.h" />
-  </ItemGroup>
-  <ItemGroup>
-    <ResourceCompile Include="etherE.rc" />
-  </ItemGroup>
-  <ItemGroup>
-    <Image Include="..\..\1.ico" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
