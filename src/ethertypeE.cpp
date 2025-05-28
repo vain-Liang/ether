@@ -1,4 +1,4 @@
-﻿/* ethertype.cpp
+﻿/* ethertypeE.cpp
 * 选择以太类型和MAC地址组合
 * E：Payload数据输入，自定义帧内容
 */
