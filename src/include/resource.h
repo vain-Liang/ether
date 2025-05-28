@@ -2,7 +2,7 @@
 // Microsoft Visual C++ generated include file.
 // Used by etherE.rc
 
-// 新对象的下一组默认值
+// Next default values for new object
 // 
 #ifdef APSTUDIO_INVOKED
 #ifndef APSTUDIO_READONLY_SYMBOLS
